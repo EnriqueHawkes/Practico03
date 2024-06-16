@@ -1,0 +1,19 @@
+﻿body {
+}
+
+.navbar-custom {
+    background-color: #6c757d; 
+}
+
+    .navbar-custom .nav-link {
+        color: white;
+    }
+
+        .navbar-custom .nav-link:hover {
+            background-color: #5a6268;
+            color: white;
+        }
+
+    .navbar-custom .navbar-brand {
+        color: white !important; 
+    }
